@@ -1,5 +1,6 @@
 // Link to Google Slides about CPU
-// 
+// https://docs.google.com/presentation/d/18YYUTR7w9ogmf0uNmVciUNiRbQvamhQOz4SndZYvBsI/edit?usp=sharing
+
 package threads;
 
 // This is the runner & main class
